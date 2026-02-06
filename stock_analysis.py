@@ -3,7 +3,6 @@ import pandas as pd
 # with open('C:\\Users\\User\\PycharmProjects\\stock_analysis\\data\\tesla_stock.csv') as file:
 #     lines = file.readlines()
 #     print(lines[:5])
-# data_pairs = df[['Date', 'Close']].values.tolist()
 
 # read data
 path = 'C:\\Users\\User\\PycharmProjects\\stock_analysis\\data\\tesla_stock.csv'
